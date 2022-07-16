@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nexus">Nexus</string>
+    <string name="next_level_shopping">Next Level Shopping</string>
+    <string name="todo">TODO</string>
+    <string name="nygmetov_almas">Nygmetov Almas</string>
+    <string name="_2022">2022</string>
+    <string name="nexus2">Nexus</string>
+    <string name="welcometext">Nexus қосымшасына қош келдіңіз!</string>
+    <string name="Logintext">Кіру</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="name_surname">Name,Surname</string>
+    <string name="regnow">Тіркеу</string>
+    <string name="welcometext2">Welcome</string>
+    <string name="welcomekz">Қош келдіңіз</string>
+    <string name="balance">Баланс</string>
+    <string name="qr">Сіздің QR Кодыңыз</string>
+    <string name="qrcode">TODO</string>
+    <string name="addbalance">addbalance</string>
+    <string name="balanceadd">Балансты толтыру</string>
+    <string name="toltyru">Толтыру</string>
+    <string name="you_have">Қазір сізде</string>
+</resources>
